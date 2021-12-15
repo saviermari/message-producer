@@ -1,4 +1,4 @@
-nstall Kafka using Homebrew
+Install Kafka using Homebrew
 
 1. Start Zoo keepe
 	zookeeper-server-start /opt/homebrew/etc/kafka/zookeeper.properties
